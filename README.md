@@ -57,7 +57,7 @@ Python • SQL • Excel • Power BI • Pandas • NumPy • Matplotlib • Se
 
 ## 🤝 Connect With Me
 
-📧 Email: your-ziyayadav02@gmail.com
+📧 Email: ziyayadav02@gmail.com
 
 💼 LinkedIn:  [Ziya Yadav](https://www.linkedin.com/in/ziya-yadav-570435259/)
 
