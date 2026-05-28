@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ziya Yadav</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
+</p>
 
 <p align="center">
 Turning raw data into meaningful insights 📊
